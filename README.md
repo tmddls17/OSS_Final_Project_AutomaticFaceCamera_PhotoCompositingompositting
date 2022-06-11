@@ -21,7 +21,7 @@
 
 #### People who want to composite their face or friends face to other person's face.
 
-![image](https://user-images.githubusercontent.com/70478109/173190293-383b9d8a-8990-4e26-ae5b-e05d12bdc392.png)
+![image](https://user-images.githubusercontent.com/70478109/173190447-48a01cb9-4429-4b9a-8ace-761eece085f0.png)
 #### People who wants to make sure that a particular hairstyle suits their face
 
 ### Why this project is useful?
