@@ -73,7 +73,7 @@ $ pip install opencv-contrib-python
 ### Download the Haar Cascade
 
 ```
-$ git clone https://github.com/akopytov/sysbench.git](https://github.com/opencv/opencv/tree/master/data/haarcascades
+$ git clone https://github.com/opencv/opencv/tree/master/data/haarcascades
 ```
 
 ### Donwload the Project Program Code
