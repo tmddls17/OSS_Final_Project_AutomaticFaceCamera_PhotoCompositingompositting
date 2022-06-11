@@ -17,7 +17,7 @@
 ### What does this project do?
 
 ### Target User
-![image](https://user-images.githubusercontent.com/70478109/173190175-f351b60c-70aa-4147-8858-446d43a0718c.png)
+![image](https://user-images.githubusercontent.com/70478109/173190412-62b76e44-a66e-4961-b794-e9bf71138d6f.png)
 
 #### People who want to composite their face or friends face to other person's face.
 
