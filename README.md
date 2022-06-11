@@ -51,7 +51,36 @@ This program can save the user's time by performing the above process in just a 
 
 ![image](https://user-images.githubusercontent.com/70478109/173190699-04a90331-f880-4125-8156-e50a617ce07d.png)      ![image](https://user-images.githubusercontent.com/70478109/173190737-c936d0be-843b-4e0c-90a2-b8b80b6dfb6e.png)        ![image](https://user-images.githubusercontent.com/70478109/173190767-b24119c8-9708-4d75-b286-32f999eb9f41.png)
 
-### How to get started?
+## How to get started?
+
+### Download the Python
+
+```
+$ sudo apt-get install python[version]
+$ sudo update-alternatives --install /usr/bin/python python /usr/bin/python[version] [number]
+```
+
+
+### Download the OpenCV
+
+```
+$ sudo apt-get -y update && sudo apt-get -y upgrade
+$ pip install opencv-python
+or
+$ pip install opencv-contrib-python
+```
+
+### Download the Haar Cascade
+
+```
+$ git clone https://github.com/akopytov/sysbench.git](https://github.com/opencv/opencv/tree/master/data/haarcascades
+```
+
+### Donwload the Project Program Code
+
+```
+$ git clone https://github.com/tmddls17/OSS_Final_Project_AutomaticFaceCamera_PhotoCompositingompositting
+```
 
 ## Conclusion
 
@@ -67,5 +96,21 @@ Follow this link
 
 ### Limitation
 
-### Where can people get more help, if needed?
+An attempt was made to create a mask using R-CNN to cut a picture according to the outline of the face, but failed due to insufficient internal memory of the Raspberry Pi.
 
+If the background photo and the face photo to be synthesized have different saturation, it would be better if you could add a function to change it and apply it.
+
+## Where can people get more help, if needed?
+
+### If you have problem with installing python
+
+(https://angelplayer.tistory.com/219)
+
+### If you have problem with installing OpenCV
+
+(https://nan-sso-gong.tistory.com/29)
+
+### Other Problems
+
+#### Please Cantact!
+21600447@handong.ac.kr
