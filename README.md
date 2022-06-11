@@ -16,6 +16,14 @@
 
 ### What does this project do?
 
+This program recognizes the user's face, shoots only the area of the face, and then synthesizes the photos stored in the location of the face in other photos.
+
+1. Recognize the user's face.
+2. Save the recognized face as a file of 'face.jpg'.
+3. Load 'background.jpg' as a source file on your computer.
+4. Recognize a face in the source file and synthesize 'face.jpg' at the recognized location.
+5. Show the result to the user and correct the picture according to the user's keyboard input, or close the program (before the program ends, save the result as 'result.jpg').
+
 ### Target User
 ![image](https://user-images.githubusercontent.com/70478109/173190412-62b76e44-a66e-4961-b794-e9bf71138d6f.png)
 
