@@ -28,7 +28,8 @@
 
 ## Language
 
-![image](https://user-images.githubusercontent.com/70478109/173189909-463b19bd-0d07-4d50-a619-1d1a149fcbee.png)          ![image](https://user-images.githubusercontent.com/70478109/173189861-dc13c24b-d5ce-42df-badf-7f3f08e9891f.png)          ![image](https://user-images.githubusercontent.com/70478109/173189771-378566f6-afa6-4994-896a-8ada830d6d6d.png)
+![image](https://user-images.githubusercontent.com/70478109/173190699-04a90331-f880-4125-8156-e50a617ce07d.png)          ![image](https://user-images.githubusercontent.com/70478109/173190737-c936d0be-843b-4e0c-90a2-b8b80b6dfb6e.png)          ![image](https://user-images.githubusercontent.com/70478109/173190767-b24119c8-9708-4d75-b286-32f999eb9f41.png)
+
 
 
 
