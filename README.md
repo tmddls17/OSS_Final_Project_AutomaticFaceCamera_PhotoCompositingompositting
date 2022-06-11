@@ -19,10 +19,10 @@
 ### Target User
 ![image](https://user-images.githubusercontent.com/70478109/173190175-f351b60c-70aa-4147-8858-446d43a0718c.png)
 
-- People who want to composite their face or friends face to other person's face.
+#### People who want to composite their face or friends face to other person's face.
 
 ![image](https://user-images.githubusercontent.com/70478109/173190293-383b9d8a-8990-4e26-ae5b-e05d12bdc392.png)
-- People who wants to make sure that a particular hairstyle suits their face
+#### People who wants to make sure that a particular hairstyle suits their face
 
 ### Why this project is useful?
 
