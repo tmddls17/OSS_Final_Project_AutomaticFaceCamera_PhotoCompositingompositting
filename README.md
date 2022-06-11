@@ -43,6 +43,8 @@ This program allows the user to perform several processes at once to combine pho
 4. Adjust size and position
 
 This program can save the user's time by performing the above process in just a few seconds.
+
+
 **In particular, I expect that it will be able to contribute to saving time for students at Handong University or other universities who have a lot of work to do.**
 
 ## Language
