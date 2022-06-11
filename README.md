@@ -17,18 +17,27 @@
 ### What does this project do?
 
 ### Target User
+![image](https://user-images.githubusercontent.com/70478109/173190175-f351b60c-70aa-4147-8858-446d43a0718c.png)
+
+- People who want to composite their face or friends face to other person's face.
+
+![image](https://user-images.githubusercontent.com/70478109/173190293-383b9d8a-8990-4e26-ae5b-e05d12bdc392.png)
+- People who wants to make sure that a particular hairstyle suits their face
 
 ### Why this project is useful?
 
 ## Language
 
+![image](https://user-images.githubusercontent.com/70478109/173189909-463b19bd-0d07-4d50-a619-1d1a149fcbee.png)
 
 Python
 
+![image](https://user-images.githubusercontent.com/70478109/173189861-dc13c24b-d5ce-42df-badf-7f3f08e9891f.png)
 
 OpenCV
 
 ![image](https://user-images.githubusercontent.com/70478109/173189771-378566f6-afa6-4994-896a-8ada830d6d6d.png)
+
 Haar Cascade
 
 ### How to get started?
