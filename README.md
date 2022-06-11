@@ -28,7 +28,7 @@ Python
 
 OpenCV
 
-
+![image](https://user-images.githubusercontent.com/70478109/173189771-378566f6-afa6-4994-896a-8ada830d6d6d.png)
 Haar Cascade
 
 ### How to get started?
