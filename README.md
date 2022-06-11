@@ -34,6 +34,13 @@ This program recognizes the user's face, shoots only the area of the face, and t
 
 ### Why this project is useful?
 
+This program allows the user to perform several processes at once to combine photos.
+1. Shooting a target with a camera
+2. Cut and save the subject's face
+3. Composite the cut and saved photos at the location of the face of the original photo to be combined
+4. Adjust size and position
+
+This program can save the user's time by performing the above process in just a few seconds.
 ## Language
 
 ![image](https://user-images.githubusercontent.com/70478109/173190699-04a90331-f880-4125-8156-e50a617ce07d.png)      ![image](https://user-images.githubusercontent.com/70478109/173190737-c936d0be-843b-4e0c-90a2-b8b80b6dfb6e.png)        ![image](https://user-images.githubusercontent.com/70478109/173190767-b24119c8-9708-4d75-b286-32f999eb9f41.png)
