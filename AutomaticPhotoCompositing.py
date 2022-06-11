@@ -3,8 +3,7 @@ import cv2
 import time
  
 font = cv2.FONT_ITALIC
-face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "./haarcascade_frontalface_default.xml")  # 얼굴찾기 haar 파일
-eye_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "./haarcascade_eye.xml") # 눈찾기 haar 파일
+face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "./haarcascade_frontalface_default.xml")
 
 def faceDetect():
     eye_detect = False
@@ -52,7 +51,7 @@ def combine():
     
     x1, y1 = 0, 0    
     for(x,y,w,h) in faces:
-        cv2.rectangle(src2, (x,y), (x+width, y+height), (0,0,0), -1)  #사각형 범위
+        cv2.rectangle(src2, (x,y), (x+width, y+height), (0,0,0), -1)
         src2[y:y+height, x:x+width] = src1
         x1, y1 = x, y
         
