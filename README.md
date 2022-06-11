@@ -10,38 +10,45 @@
 
 [2. Language](#language)
 
+[3. Conclusion](#conclusion)
+
 ## Introduction
 
 ### What does this project do?
 
+### Target User
+
 ### Why this project is useful?
+
+## Language
+
+
+Python
+
+
+OpenCV
+
+
+Haar Cascade
 
 ### How to get started?
 
-## Where can people get more help, if needed?
+## Conclusion
 
-# Pocket Trainer
+### Demo Video
 
-With our application, people can film their motions and get guidance by a personal A.I trainer with machine learning. Also, users can receive feedback from experts in sports.
+### Presentation Video
+
+### Limitation
+
+### Where can people get more help, if needed?
 
 
-### Members
 
-21700045 권동성 / 21600285 박재현 / 21700302 박준석 / 21600447 유승준 / 21700576 이중호
 
-## index
 
-[1. Introduction](#introduction)
 
-[2. Language](#language)
 
-[3. Wireframe / Interaction](#wireframe_/_interaction)
-
-[4. Sourcecode](#sourcecode)
-
-[5. Conclusion](#conclusion)
-
-[6. References](#references)
 
 
 
